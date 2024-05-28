@@ -9,7 +9,7 @@ git clone https://github.com/GoatScript7/Reddit-App.git
 
 ```bash
 # using npm
-# cd ./reddit-app
+# cd ./Reddit-App
 npm install
 ```
 
